@@ -3,5 +3,5 @@
 
 **Heart-Failure**
 
-<a href="google.com">Search More ABout HF HERE</a>
+<a href="google.com">Search More About HF HERE</a>
 
